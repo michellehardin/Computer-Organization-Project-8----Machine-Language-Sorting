@@ -1,0 +1,2 @@
+# Computer-Organization-Project-8----Machine-Language-Sorting
+In this project your assignment is to translate a provided C code file into equivalent low level machine  code using the stack, operator, and procedure macros created in the previous project.    You will be  translating two sorting algorithms, the quicksort algorithm using the Lumuto partitioning scheme, and  the insertion sort algorithm.  A C++ implementation of these procedures is provided in the included  sort.cc file.
